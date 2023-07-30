@@ -3,7 +3,7 @@
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- base on [Yoyochou0901/Gap_cal](https://github.com/Yoyochou0901/Gap_cal)
 
 ## 索引
 - [貢獻者](#貢獻者)
