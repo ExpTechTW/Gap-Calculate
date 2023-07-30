@@ -1,9 +1,10 @@
-# 模板
+# Gap-Calculate
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
 - base on [Yoyochou0901/Gap_cal](https://github.com/Yoyochou0901/Gap_cal)
+- 計算 Gap 的 JavaScript 程式
 
 ## 索引
 - [貢獻者](#貢獻者)
