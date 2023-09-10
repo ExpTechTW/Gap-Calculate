@@ -3,7 +3,7 @@
 
 ------
 
-- base on [Yoyochou0901/Gap_cal](https://github.com/Yoyochou0901/Gap_cal)
+- base on [Yoyochou0901/Gap_cal](https://github.com/Yoyochou0901/Gap_cal) @Yoyochou0901
 - 計算 Gap 的 JavaScript 程式
 
 ## 索引
